@@ -1,4 +1,4 @@
-# H1 Curso sobre Aprendizaje Profundo por Refuerzo en ECI 2019
+# Curso sobre Aprendizaje Profundo por Refuerzo en ECI 2019
 El curso sobre Aprendizaje Profundo por Refuerzo se celebrará durante la Escuela de Ciencias Informáticas ([ECI 2019](https://eci2019.dc.uba.ar)), que tendrá lugar del 22 al 26 de julio de 2019 en la [Universidad de Buenos Aires](http://www.uba.ar).
 
 **T1: Aprendizaje profundo por refuerzo 13:30 a 16:30**
@@ -50,7 +50,16 @@ Las normas sobre la entrega serán publicadas a la mayor brevedad.
 
 ## Información adicional y contacto
 Juan Gómez Romero (PhD)
+
 Senior Research Fellow
-Departamento de Ciencias de la Computación e Inteligencia Artificial
-Universidad de Granada
+
 [web](https://decsai.ugr.es/~jgomez)
+
+Departamento de Ciencias de la Computación e Inteligencia Artificial
+
+Universidad de Granada
+
+## Soporte
+>**PROFICIENT** is a 2-year project funded by the **EXPLORA** programme of the Spanish Ministry of Science, Innovation and Universities in 2018-2020 (TIN2017-91223-EXP).
+
+<img align="left" width="25%" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logotipo_del_Ministerio_de_Ciencia%2C_Innovación_y_Universidades.svg"/>
