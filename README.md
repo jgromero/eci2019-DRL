@@ -42,21 +42,14 @@ El curso sobre Aprendizaje Profundo por Refuerzo se celebrará durante la Escuel
 	- AlphaGo
 
 ## Aspectos prácticos
-La entrega de ejercicios prácticos se realizará a través de la solicitud de archivos de Dropbox accesible en el siguiente enlace:
-
-[Entrega de ejercicios prácticos](https://www.dropbox.com/request/2AbVBu3lYdw8tkZx7YAJ)
+La entrega de ejercicios prácticos se realizará a través de la solicitud de archivos de Dropbox accesible en el siguiente enlace: [Entrega de ejercicios prácticos](https://www.dropbox.com/request/2AbVBu3lYdw8tkZx7YAJ)
 
 Las normas sobre la entrega serán publicadas a la mayor brevedad.
 
 ## Información adicional y contacto
-Juan Gómez Romero (PhD)
-
-Senior Research Fellow
-
-[web](https://decsai.ugr.es/~jgomez)
-
-Departamento de Ciencias de la Computación e Inteligencia Artificial
-
+**[Juan Gómez Romero (PhD)](https://decsai.ugr.es/~jgomez)** </br>
+Senior Research Fellow </br>
+Departamento de Ciencias de la Computación e Inteligencia Artificial </br>
 Universidad de Granada
 
 ## Soporte
