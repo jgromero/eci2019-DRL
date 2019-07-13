@@ -4,7 +4,7 @@ El curso sobre Aprendizaje Profundo por Refuerzo se celebrará durante la Escuel
 **T1: Aprendizaje profundo por refuerzo 13:30 a 16:30**
 [Juan Gómez Romero](https://decsai.ugr.es/~jgomez), Universidad de Granada, España
 
-![](https://eci2019.dc.uba.ar/programa-eci-2019.png)
+![](https://github.com/jgromero/eci2019-DRL/blob/master/programa-eci-2019.png)
 
 ## Contenidos del curso
 1. [Introducción](https://github.com/jgromero/eci2019-DRL/blob/master/Tema%201%20-%20Introduccion/Introducción.pdf)
