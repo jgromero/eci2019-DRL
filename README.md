@@ -4,7 +4,9 @@ El curso sobre Aprendizaje Profundo por Refuerzo se celebrará durante la Escuel
 **T1: Aprendizaje profundo por refuerzo 13:30 a 16:30**
 [Juan Gómez Romero](https://decsai.ugr.es/~jgomez), Universidad de Granada, España
 
-![](https://github.com/jgromero/eci2019-DRL/blob/master/programa-eci-2019.png)
+<!-- 
+![](https://github.com/jgromero/eci2019-DRL/blob/master/programa-eci-2019.png) 
+-->
 
 ## Contenidos del curso
 1. [Introducción](https://github.com/jgromero/eci2019-DRL/blob/master/Tema%201%20-%20Introduccion/Introducción.pdf)
@@ -41,10 +43,12 @@ El curso sobre Aprendizaje Profundo por Refuerzo se celebrará durante la Escuel
 		- DDPG Pendulum ([01. DDPG_pendulum](https://github.com/jgromero/eci2019-DRL/blob/master/Tema%204%20-%20Aprendizaje%20Profundo%20por%20Refuerzo/code/ddpg/01.%20DDPG_lunarlander.ipynb))
 	- AlphaGo
 
+<!-- 
 ## Aspectos prácticos
 La entrega de ejercicios prácticos se realizará a través de la solicitud de archivos de Dropbox accesible en el siguiente enlace: [Entrega de ejercicios prácticos](https://www.dropbox.com/request/2AbVBu3lYdw8tkZx7YAJ)
 
 Las normas sobre la entrega serán publicadas a la mayor brevedad.
+-->
 
 ## Información adicional y contacto
 **[Juan Gómez Romero (PhD)](https://decsai.ugr.es/~jgomez)** </br>
