@@ -40,7 +40,7 @@ El curso sobre Aprendizaje Profundo por Refuerzo se celebrará durante la Escuel
 	- Implementación
 		- DQN LunarLander ([01. DQN_lunarlander](https://github.com/jgromero/eci2019-DRL/blob/master/Tema%204%20-%20Aprendizaje%20Profundo%20por%20Refuerzo/code/dqn/01.%20DQN_lunarlander.ipynb))
 		<!-- - DQN CartPole ([01b. DQN_cartpole](https://github.com/jgromero/eci2019-DRL/blob/master/Tema%204%20-%20Aprendizaje%20Profundo%20por%20Refuerzo/code/dqn/01b.%20DQN_cartpole.ipynb)) ** -->
-		- DDPG Pendulum ([01. DDPG_pendulum](https://github.com/jgromero/eci2019-DRL/blob/master/Tema%204%20-%20Aprendizaje%20Profundo%20por%20Refuerzo/code/ddpg/01.%20DDPG_lunarlander.ipynb))
+		- DDPG Pendulum ([01. DDPG_pendulum](https://github.com/jgromero/eci2019-DRL/blob/master/Tema%204%20-%20Aprendizaje%20Profundo%20por%20Refuerzo/code/ddpg/01.%20DDPG_pendulum.ipynb))
 	- AlphaGo
  
 ## Evaluación
