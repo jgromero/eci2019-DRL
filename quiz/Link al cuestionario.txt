@@ -1,1 +1,8 @@
+Cuestionario:
 http://sl.ugr.es/quizDRL19
+
+Cuestionario + feedback:
+http://sl.ugr.es/quizDRL19_soluciones
+
+Cuestionario de satisfacción de docencia:
+http://sl.ugr.es/eci2019_DRL_cuestionario
