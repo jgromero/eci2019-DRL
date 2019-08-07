@@ -46,9 +46,9 @@ El curso sobre Aprendizaje Profundo por Refuerzo se celebrará durante la Escuel
 ## Evaluación
 La evaluación constará de dos pruebas:
 
-	- Un cuestionario, que se realizará durante el último día del curso en la ECI ([acceso al cuestionario](http://sl.ugr.es/quizDRL19_soluciones), [soluciones](https://github.com/jgromero/eci2019-DRL/blob/master/quiz/Aprendizaje%20Profundo%20por%20Refuerzo%20-%20Quiz%20Resuelto.pdf)). Con este cuestionario se podrán obtener hasta 8.5 puntos.
+1. Un cuestionario, que se realizará durante el último día del curso en la ECI ([acceso al cuestionario](http://sl.ugr.es/quizDRL19_soluciones), [soluciones](https://github.com/jgromero/eci2019-DRL/blob/master/quiz/Aprendizaje%20Profundo%20por%20Refuerzo%20-%20Quiz%20Resuelto.pdf)). Con este cuestionario se podrán obtener hasta 8.5 puntos.
 
-	- Un ejercicio práctico, que deberá entregarse antes del 20 de agosto de 2019. Las instrucciones para la entrega del ejercicio práctico se encuentran (aquí)[https://github.com/jgromero/eci2019-DRL/blob/master/ejercicio/Instrucciones%20para%20entrega%20del%20ejercicio.pdf]. Con este ejercicio se podrán obtener hasta 5 puntos.
+2. Un ejercicio práctico, que deberá entregarse antes del **20 de agosto de 2019 23:59** (hora de Argentina). Las instrucciones para la entrega del ejercicio práctico se encuentran (aquí)[https://github.com/jgromero/eci2019-DRL/blob/master/ejercicio/Instrucciones%20para%20entrega%20del%20ejercicio.pdf]. Con este ejercicio se podrán obtener hasta 5 puntos.
 
 La nota global del curso será: _nota final = nota del cuestionario (sobre 8.5) + nota del ejercicio práctico (sobre 5)_. Las notas finales _>=10_ constarán como _10_.
 
