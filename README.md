@@ -42,13 +42,17 @@ El curso sobre Aprendizaje Profundo por Refuerzo se celebrará durante la Escuel
 		<!-- - DQN CartPole ([01b. DQN_cartpole](https://github.com/jgromero/eci2019-DRL/blob/master/Tema%204%20-%20Aprendizaje%20Profundo%20por%20Refuerzo/code/dqn/01b.%20DQN_cartpole.ipynb)) ** -->
 		- DDPG Pendulum ([01. DDPG_pendulum](https://github.com/jgromero/eci2019-DRL/blob/master/Tema%204%20-%20Aprendizaje%20Profundo%20por%20Refuerzo/code/ddpg/01.%20DDPG_lunarlander.ipynb))
 	- AlphaGo
+ 
+## Evaluación
+La evaluación constará de dos pruebas:
 
-<!-- 
-## Aspectos prácticos
-La entrega de ejercicios prácticos se realizará a través de la solicitud de archivos de Dropbox accesible en el siguiente enlace: [Entrega de ejercicios prácticos](https://www.dropbox.com/request/2AbVBu3lYdw8tkZx7YAJ)
+	- Un cuestionario, que se realizará durante el último día del curso en la ECI ([acceso al cuestionario](http://sl.ugr.es/quizDRL19_soluciones), [soluciones](https://github.com/jgromero/eci2019-DRL/blob/master/quiz/Aprendizaje%20Profundo%20por%20Refuerzo%20-%20Quiz%20Resuelto.pdf)). Con este cuestionario se podrán obtener hasta 8.5 puntos.
 
-Las normas sobre la entrega serán publicadas a la mayor brevedad.
--->
+	- Un ejercicio práctico, que deberá entregarse antes del 20 de agosto de 2019. Las instrucciones para la entrega del ejercicio práctico se encuentran (aquí)[https://github.com/jgromero/eci2019-DRL/blob/master/ejercicio/Instrucciones%20para%20entrega%20del%20ejercicio.pdf]. Con este ejercicio se podrán obtener hasta 5 puntos.
+
+La nota global del curso será: _nota final = nota del cuestionario (sobre 8.5) + nota del ejercicio práctico (sobre 5)_. Las notas finales _>=10_ constarán como _10_.
+
+Siguiendo las normas de la UBA, el curso será aprobado cuando: **_nota final >= 4_**.
 
 ## Información adicional y contacto
 **[Juan Gómez Romero (PhD)](https://decsai.ugr.es/~jgomez)** </br>
